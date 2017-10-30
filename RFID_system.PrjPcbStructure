@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=Sheet2.SchDoc
+Record=SheetSymbol|SourceDocument=Sheet2.SchDoc|Designator=C1|SchDesignator=C1|FileName=Converter.SchDoc|SymbolType=Normal|RawFileName=Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2.SchDoc|Designator=C2|SchDesignator=C2|FileName=Converter.SchDoc|SymbolType=Normal|RawFileName=Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Sheet2.SchDoc|Designator=RFID1|SchDesignator=Repeat(RFID,1,8)|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Sheet2.SchDoc|Designator=RFID2|SchDesignator=Repeat(RFID,1,8)|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Sheet2.SchDoc|Designator=RFID3|SchDesignator=Repeat(RFID,1,8)|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
