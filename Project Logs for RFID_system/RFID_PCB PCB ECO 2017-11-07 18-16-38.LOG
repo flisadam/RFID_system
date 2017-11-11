@@ -1,0 +1,528 @@
+Removed Pin From Net: NetName=GND Pin=Q1_RFID1-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID1-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID2-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID2-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID3-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID3-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID4-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID4-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID5-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID5-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID6-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID6-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID7-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID7-2
+Removed Pin From Net: NetName=GND Pin=Q1_RFID8-1
+Removed Pin From Net: NetName=GND Pin=Q1_RFID8-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID1-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID1-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID2-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID2-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID3-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID3-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID4-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID4-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID5-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID5-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID6-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID6-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID7-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID7-3
+Removed Pin From Net: NetName=GND Pin=U1_RFID8-2
+Removed Pin From Net: NetName=GND Pin=U1_RFID8-3
+Added Component: Designator=C10_RFID1(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID2(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID3(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID4(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID5(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID6(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID7(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RFID8(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID1(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID2(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID3(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID4(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID5(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID6(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID7(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_RFID8(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0201_X5R_AVX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2007-12-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "02016D223KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0201_22NF_6.3V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10_RFID1-1
+Added Pin To Net: NetName=GND Pin=C10_RFID2-1
+Added Pin To Net: NetName=GND Pin=C10_RFID3-1
+Added Pin To Net: NetName=GND Pin=C10_RFID4-1
+Added Pin To Net: NetName=GND Pin=C10_RFID5-1
+Added Pin To Net: NetName=GND Pin=C10_RFID6-1
+Added Pin To Net: NetName=GND Pin=C10_RFID7-1
+Added Pin To Net: NetName=GND Pin=C10_RFID8-1
+Added Pin To Net: NetName=GND Pin=C11_RFID1-2
+Added Pin To Net: NetName=GND Pin=C11_RFID2-2
+Added Pin To Net: NetName=GND Pin=C11_RFID3-2
+Added Pin To Net: NetName=GND Pin=C11_RFID4-2
+Added Pin To Net: NetName=GND Pin=C11_RFID5-2
+Added Pin To Net: NetName=GND Pin=C11_RFID6-2
+Added Pin To Net: NetName=GND Pin=C11_RFID7-2
+Added Pin To Net: NetName=GND Pin=C11_RFID8-2
+Added Pin To Net: NetName=NetC10_RFID1_2 Pin=C10_RFID1-2
+Added Pin To Net: NetName=NetC10_RFID1_2 Pin=Q1_RFID1-1
+Added Pin To Net: NetName=NetC10_RFID1_2 Pin=U1_RFID1-2
+Added Net: Name=NetC10_RFID1_2
+Added Pin To Net: NetName=NetC10_RFID2_2 Pin=C10_RFID2-2
+Added Pin To Net: NetName=NetC10_RFID2_2 Pin=Q1_RFID2-1
+Added Pin To Net: NetName=NetC10_RFID2_2 Pin=U1_RFID2-2
+Added Net: Name=NetC10_RFID2_2
+Added Pin To Net: NetName=NetC10_RFID3_2 Pin=C10_RFID3-2
+Added Pin To Net: NetName=NetC10_RFID3_2 Pin=Q1_RFID3-1
+Added Pin To Net: NetName=NetC10_RFID3_2 Pin=U1_RFID3-2
+Added Net: Name=NetC10_RFID3_2
+Added Pin To Net: NetName=NetC10_RFID4_2 Pin=C10_RFID4-2
+Added Pin To Net: NetName=NetC10_RFID4_2 Pin=Q1_RFID4-1
+Added Pin To Net: NetName=NetC10_RFID4_2 Pin=U1_RFID4-2
+Added Net: Name=NetC10_RFID4_2
+Added Pin To Net: NetName=NetC10_RFID5_2 Pin=C10_RFID5-2
+Added Pin To Net: NetName=NetC10_RFID5_2 Pin=Q1_RFID5-1
+Added Pin To Net: NetName=NetC10_RFID5_2 Pin=U1_RFID5-2
+Added Net: Name=NetC10_RFID5_2
+Added Pin To Net: NetName=NetC10_RFID6_2 Pin=C10_RFID6-2
+Added Pin To Net: NetName=NetC10_RFID6_2 Pin=Q1_RFID6-1
+Added Pin To Net: NetName=NetC10_RFID6_2 Pin=U1_RFID6-2
+Added Net: Name=NetC10_RFID6_2
+Added Pin To Net: NetName=NetC10_RFID7_2 Pin=C10_RFID7-2
+Added Pin To Net: NetName=NetC10_RFID7_2 Pin=Q1_RFID7-1
+Added Pin To Net: NetName=NetC10_RFID7_2 Pin=U1_RFID7-2
+Added Net: Name=NetC10_RFID7_2
+Added Pin To Net: NetName=NetC10_RFID8_2 Pin=C10_RFID8-2
+Added Pin To Net: NetName=NetC10_RFID8_2 Pin=Q1_RFID8-1
+Added Pin To Net: NetName=NetC10_RFID8_2 Pin=U1_RFID8-2
+Added Net: Name=NetC10_RFID8_2
+Added Pin To Net: NetName=NetC11_RFID1_1 Pin=C11_RFID1-1
+Added Pin To Net: NetName=NetC11_RFID1_1 Pin=Q1_RFID1-2
+Added Pin To Net: NetName=NetC11_RFID1_1 Pin=U1_RFID1-3
+Added Net: Name=NetC11_RFID1_1
+Added Pin To Net: NetName=NetC11_RFID2_1 Pin=C11_RFID2-1
+Added Pin To Net: NetName=NetC11_RFID2_1 Pin=Q1_RFID2-2
+Added Pin To Net: NetName=NetC11_RFID2_1 Pin=U1_RFID2-3
+Added Net: Name=NetC11_RFID2_1
+Added Pin To Net: NetName=NetC11_RFID3_1 Pin=C11_RFID3-1
+Added Pin To Net: NetName=NetC11_RFID3_1 Pin=Q1_RFID3-2
+Added Pin To Net: NetName=NetC11_RFID3_1 Pin=U1_RFID3-3
+Added Net: Name=NetC11_RFID3_1
+Added Pin To Net: NetName=NetC11_RFID4_1 Pin=C11_RFID4-1
+Added Pin To Net: NetName=NetC11_RFID4_1 Pin=Q1_RFID4-2
+Added Pin To Net: NetName=NetC11_RFID4_1 Pin=U1_RFID4-3
+Added Net: Name=NetC11_RFID4_1
+Added Pin To Net: NetName=NetC11_RFID5_1 Pin=C11_RFID5-1
+Added Pin To Net: NetName=NetC11_RFID5_1 Pin=Q1_RFID5-2
+Added Pin To Net: NetName=NetC11_RFID5_1 Pin=U1_RFID5-3
+Added Net: Name=NetC11_RFID5_1
+Added Pin To Net: NetName=NetC11_RFID6_1 Pin=C11_RFID6-1
+Added Pin To Net: NetName=NetC11_RFID6_1 Pin=Q1_RFID6-2
+Added Pin To Net: NetName=NetC11_RFID6_1 Pin=U1_RFID6-3
+Added Net: Name=NetC11_RFID6_1
+Added Pin To Net: NetName=NetC11_RFID7_1 Pin=C11_RFID7-1
+Added Pin To Net: NetName=NetC11_RFID7_1 Pin=Q1_RFID7-2
+Added Pin To Net: NetName=NetC11_RFID7_1 Pin=U1_RFID7-3
+Added Net: Name=NetC11_RFID7_1
+Added Pin To Net: NetName=NetC11_RFID8_1 Pin=C11_RFID8-1
+Added Pin To Net: NetName=NetC11_RFID8_1 Pin=Q1_RFID8-2
+Added Pin To Net: NetName=NetC11_RFID8_1 Pin=U1_RFID8-3
+Added Net: Name=NetC11_RFID8_1
+Added Member To Class: ClassName=RFID1 Member=Component C10_RFID1 (C10) 22nF
+Added Member To Class: ClassName=RFID2 Member=Component C10_RFID2 (C10) 22nF
+Added Member To Class: ClassName=RFID3 Member=Component C10_RFID3 (C10) 22nF
+Added Member To Class: ClassName=RFID4 Member=Component C10_RFID4 (C10) 22nF
+Added Member To Class: ClassName=RFID5 Member=Component C10_RFID5 (C10) 22nF
+Added Member To Class: ClassName=RFID6 Member=Component C10_RFID6 (C10) 22nF
+Added Member To Class: ClassName=RFID7 Member=Component C10_RFID7 (C10) 22nF
+Added Member To Class: ClassName=RFID8 Member=Component C10_RFID8 (C10) 22nF
+Added Member To Class: ClassName=RFID1 Member=Component C11_RFID1 (C11) 22nF
+Added Member To Class: ClassName=RFID2 Member=Component C11_RFID2 (C11) 22nF
+Added Member To Class: ClassName=RFID3 Member=Component C11_RFID3 (C11) 22nF
+Added Member To Class: ClassName=RFID4 Member=Component C11_RFID4 (C11) 22nF
+Added Member To Class: ClassName=RFID5 Member=Component C11_RFID5 (C11) 22nF
+Added Member To Class: ClassName=RFID6 Member=Component C11_RFID6 (C11) 22nF
+Added Member To Class: ClassName=RFID7 Member=Component C11_RFID7 (C11) 22nF
+Added Member To Class: ClassName=RFID8 Member=Component C11_RFID8 (C11) 22nF

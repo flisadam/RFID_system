@@ -1,0 +1,16 @@
+Change Component Comment : Designator=10k_RFID1 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID2 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID3 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID4 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID5 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID7 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=10k_RFID8 Old Comment=1k New Comment=10k
+Change Component Designator: OldDesignator=10k_RFID1 NewDesignator=R5_RFID1
+Change Component Designator: OldDesignator=10k_RFID2 NewDesignator=R5_RFID2
+Change Component Designator: OldDesignator=10k_RFID3 NewDesignator=R5_RFID3
+Change Component Designator: OldDesignator=10k_RFID4 NewDesignator=R5_RFID4
+Change Component Designator: OldDesignator=10k_RFID5 NewDesignator=R5_RFID5
+Change Component Designator: OldDesignator=10k_RFID6 NewDesignator=R5_RFID6
+Change Component Designator: OldDesignator=10k_RFID7 NewDesignator=R5_RFID7
+Change Component Designator: OldDesignator=10k_RFID8 NewDesignator=R5_RFID8
