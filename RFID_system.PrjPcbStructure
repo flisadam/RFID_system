@@ -1,6 +1,4 @@
 Record=TopLevelDocument|FileName=Master.SchDoc
-Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=C1|SchDesignator=C1|FileName=Converter.SchDoc|SymbolType=Normal|RawFileName=Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=C2|SchDesignator=C2|FileName=Converter.SchDoc|SymbolType=Normal|RawFileName=Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=S1|SchDesignator=Repeat(S,1,8)|FileName=Slave.SchDoc|SymbolType=Normal|RawFileName=Slave.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=S2|SchDesignator=Repeat(S,1,8)|FileName=Slave.SchDoc|SymbolType=Normal|RawFileName=Slave.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=S3|SchDesignator=Repeat(S,1,8)|FileName=Slave.SchDoc|SymbolType=Normal|RawFileName=Slave.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
