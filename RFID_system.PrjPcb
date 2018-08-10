@@ -29,6 +29,20 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+<<<<<<< Updated upstream
+=======
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+LinkedManagedProjectGUID=
+IncludeDesignInRelease=0
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+>>>>>>> Stashed changes
 
 [Document1]
 DocumentPath=Master.SchDoc
@@ -115,6 +129,79 @@ GenerateClassCluster=0
 DocumentUniqueId=AYHWXFKX
 >>>>>>> Stashed changes
 
+[ProjectVariant1]
+UniqueID=AF43B18A-3213-4F80-AF5B-65D2F3CCB7D0
+Description=Corrects from PCB 
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=C7|UniqueId=\JXRXGDXN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.DbLib/Capacitors SMD|AltLibLink_SymbolReference=Capacitor - non polarized|AltLibLink_DesignItemID=CC0603_100NF_50V_10%_X5R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC1608X87N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Case|VariantValue=0603
+ParamDesignator1=C7
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=C7
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=C7
+ParamVariation4=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator4=C7
+ParamVariation5=ParameterName=CreateDate|VariantValue=2016-01-08
+ParamDesignator5=C7
+ParamVariation6=ParameterName=Database Table Name|VariantValue=Capacitors SMD
+ParamDesignator6=C7
+ParamVariation7=ParameterName=Description|VariantValue=Non-polarised capacitor
+ParamDesignator7=C7
+ParamVariation8=ParameterName=Footprint|VariantValue=CAPC1608X87N
+ParamDesignator8=C7
+ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_TDK_C.pdf
+ParamDesignator9=C7
+ParamVariation10=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator10=C7
+ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=2016-01-08
+ParamDesignator11=C7
+ParamVariation12=ParameterName=Library Reference|VariantValue=CC0603_100NF_50V_10%_X5R
+ParamDesignator12=C7
+ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator13=C7
+ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.9mm
+ParamDesignator14=C7
+ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=TDK
+ParamDesignator15=C7
+ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=C1608X5R1H104K080AA
+ParamDesignator16=C7
+ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=CC0603_100NF_50V_10%_X5R
+ParamDesignator17=C7
+ParamVariation18=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator18=C7
+ParamVariation19=ParameterName=Part Description|VariantValue=SMD Multilayer Chip Ceramic Capacitor
+ParamDesignator19=C7
+ParamVariation20=ParameterName=Part Number|VariantValue=CC0603_100NF_50V_10%_X5R
+ParamDesignator20=C7
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=C7
+ParamVariation22=ParameterName=Pin Count|VariantValue=2
+ParamDesignator22=C7
+ParamVariation23=ParameterName=Sense|VariantValue=No
+ParamDesignator23=C7
+ParamVariation24=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator24=C7
+ParamVariation25=ParameterName=Simulation|VariantValue= 
+ParamDesignator25=C7
+ParamVariation26=ParameterName=SMD|VariantValue=Yes
+ParamDesignator26=C7
+ParamVariation27=ParameterName=Socket|VariantValue=No
+ParamDesignator27=C7
+ParamVariation28=ParameterName=Status|VariantValue=None
+ParamDesignator28=C7
+ParamVariation29=ParameterName=TC|VariantValue=X5R
+ParamDesignator29=C7
+ParamVariation30=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator30=C7
+ParamVariation31=ParameterName=Value|VariantValue=100nF
+ParamDesignator31=C7
+ParamVariation32=ParameterName=Voltage|VariantValue=50V
+ParamDesignator32=C7
+ParamVariationCount=32
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RFID_system\Design Rule Check - RFID_PCB.html
 DItemRevisionGUID=
@@ -175,6 +262,12 @@ SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
+<<<<<<< Updated upstream
+=======
+[Generic_EDE]
+OutputDir=
+
+>>>>>>> Stashed changes
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
@@ -1081,6 +1174,10 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+MultiChannelAlternate=2
 >>>>>>> Stashed changes
 
 [ERC Connection Matrix]
