@@ -93,15 +93,39 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
+=======
+DocumentUniqueId=QVXXTIVM
+
+[Document5]
+DocumentPath=RFID_system.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AYHWXFKX
+>>>>>>> Stashed changes
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RFID_system\Design Rule Check - RFID_PCB.html
 DItemRevisionGUID=
 
+<<<<<<< Updated upstream
 [GeneratedDocument2]
 DocumentPath=RFID_PCB.PcbDoc.htm
 DItemRevisionGUID=
 
+=======
+>>>>>>> Stashed changes
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -121,17 +145,17 @@ AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
 ProjectMode=0
-ZoomPrecision=50
+ZoomPrecision=100
 AddNetsInformation=-1
 AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
-PCB_PrintColor=1
+PCB_PrintColor=0
 SCH_PrintColor=0
 PrintQuality=-4
 SCH_ShowNoErc=-1
@@ -142,20 +166,25 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=
+SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
-SCH_HasExpandLogicalToPhysicalSheets=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
 OutputDocumentPath1=
@@ -275,8 +304,13 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
 OutputDocumentPath1=
@@ -382,8 +416,13 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 OutputType1=Assembly
 OutputName1=Assembly Drawings
 OutputDocumentPath1=
@@ -404,10 +443,17 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+>>>>>>> Stashed changes
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
@@ -460,8 +506,13 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 OutputType1=Script
 OutputName1=Script Output
 OutputDocumentPath1=
@@ -499,8 +550,13 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 OutputType1=Text Print
 OutputName1=Text Print
 OutputDocumentPath1=
@@ -679,10 +735,17 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Component states check
+OutputName1=Vault's components states check
+>>>>>>> Stashed changes
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
@@ -708,10 +771,17 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Canon LBP3460 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportIDF
 OutputName1=Export IDF
+=======
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+>>>>>>> Stashed changes
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
@@ -720,6 +790,55 @@ OutputName2=Export STEP
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+<<<<<<< Updated upstream
+=======
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=XRX9C934E440240
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+>>>>>>> Stashed changes
 
 [Modification Levels]
 Type1=1
@@ -947,6 +1066,22 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
+<<<<<<< Updated upstream
+=======
+Type101=1
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+>>>>>>> Stashed changes
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
